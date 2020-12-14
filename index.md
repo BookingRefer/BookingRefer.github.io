@@ -1,5 +1,5 @@
 <html>
 <body>
-<img src="memopic.PNG" alt="Boeing Boeing">
+<a href="bookingrefer.github.io/memo.pdf" target="_blank">memo.pdf.</a>
 </body>
 </html>
